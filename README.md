@@ -1,4 +1,4 @@
-# Allen-s-Swift-Master-School
+# Allen-Swift-Master-School
 Today I learned  
 ### 기본연산자_2021.08.19  
 1. 기본연산자  
