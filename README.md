@@ -1,5 +1,11 @@
 # Allen-s-Swift-Master-School
 Today I learned  
+### 기본연산자_2021.08.19  
+1. 기본연산자  
+2. 복합할당/비교/논리 연산자/연산의 우선순위/접근연산자  
+### 프로그래밍의 기본 원리와 조건문  
+1. 프로그래밍의 기본 원리와 if조건문  
+---
 ### 변수와 상수/데이터 타입_2021.08.18  
 3. Swift 데이터 타입
 4. 타입 주석(Annotation) / 타입추론(Inference) / 타입안정성(Safety) / 타입변환(Conversion)
