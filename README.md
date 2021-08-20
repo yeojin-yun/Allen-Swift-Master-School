@@ -3,7 +3,7 @@ Today I learned
 #### 2021.08.20  
 ### 튜플  
 1. 튜플 기본  
-    -튜플의 데이터의 조합. 
+    -튜플의 데이터의 조합.   
     -예) let iOS = ("Swift", "5") == let iOS = (language: "Swift", version="5")  
 2. 튜플의 활용  
     -튜플은 switch문과 함께 자주 활용됨.  
