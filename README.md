@@ -1,5 +1,12 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.01  
+### 속성과 메서드  
+1. 속성과 메서드  
+    1-1. 계산속성  
+    -var로만 선언 가능  
+    -getter와 setter로 나뉨. (setter는 생략 가능)  
+---
 #### 2021.08.31  
 ### 앱만들기  
 1. 텍스트레이블 바꾸기  
