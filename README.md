@@ -1,5 +1,13 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.08  
+### 타입 캐스팅  
+1. is 연산자  
+2. as 연산자  
+3. 다운캐스팅  
+4. 상속과 다형성  
+5. Any, AnyObject타입  
+---
 #### 2021.09.07  
 ### 상속과 초기화  
 2. 생성자  
