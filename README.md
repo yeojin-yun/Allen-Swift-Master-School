@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.14  
+### 중첩타입  
+### self vs Self  
+---
 #### 2021.09.13  
 ### 프로토콜  
 9. 프로토콜의 확장  
