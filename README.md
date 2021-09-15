@@ -1,5 +1,11 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.15  
+### Closure  
+1. 클로저의 개념  
+2. 클로저의 형태  
+3. 클로저의 사용이유  
+---
 #### 2021.09.14  
 ### 중첩타입  
 ### self vs Self  
