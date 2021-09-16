@@ -1,5 +1,11 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.16  
+### Closure   
+4. 클로저 문법의 최적화  
+5. 클로저의 메모리 구조   
+6. @escaping, @autoclosure  
+---
 #### 2021.09.15  
 ### Closure  
 1. 클로저의 개념  
