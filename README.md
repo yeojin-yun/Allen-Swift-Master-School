@@ -1,5 +1,13 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.17  
+### 고차함수  
+1. map  
+2. filter  
+3. reduce  
+4. foreach  
+5. mapfilter  
+---
 #### 2021.09.16  
 ### Closure   
 4. 클로저 문법의 최적화  
