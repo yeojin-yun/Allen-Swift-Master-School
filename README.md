@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.18  
+### 메모리 구조  
+-CPU메모리 구조~프로토콜 메모리 구조  
+---
 #### 2021.09.17  
 ### 고차함수  
 1. map  
