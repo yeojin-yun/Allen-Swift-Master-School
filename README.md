@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.23  
+### ARC  
+3. 강한 참조  
+---
 #### 2021.09.22  
 ### ARC  
 1. 스위프트의 메모리 관리 모델  
