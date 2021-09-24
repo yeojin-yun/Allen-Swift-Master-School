@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.24. 
+### ARC  
+4. 클로저와 메모리 관리  
+---
 #### 2021.09.23  
 ### ARC  
 3. 강한 참조  
