@@ -1,6 +1,11 @@
 # Allen-Swift-Master-School
 Today I learned  
-#### 2021.09.24. 
+#### 2021.09.25  
+### 복습  
+1. 확장 (extension)  
+2. 프로토콜 (protocol)  
+---
+#### 2021.09.24  
 ### ARC  
 4. 클로저와 메모리 관리  
 ---
