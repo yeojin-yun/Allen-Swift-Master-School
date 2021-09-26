@@ -1,5 +1,11 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.26  
+### 복습  
+3. 프로토콜  
+4. self vs Self  
+5. 타입캐스팅  
+---
 #### 2021.09.25  
 ### 복습  
 1. 확장 (extension)  
