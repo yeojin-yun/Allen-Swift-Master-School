@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.27  
+### ARC  
+5. 캡쳐리스트  
+---
 #### 2021.09.26  
 ### 복습  
 3. 프로토콜  
