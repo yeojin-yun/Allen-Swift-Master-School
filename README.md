@@ -1,5 +1,13 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.28  
+### ARC  
+6. 일반적인 클로저의 사용  
+7. 메모리 누수의 사례  
+### Error Handling  
+1. 에러 처리 문법  
+2. 에러 처리 방법  
+---
 #### 2021.09.27  
 ### ARC  
 5. 캡쳐리스트  
