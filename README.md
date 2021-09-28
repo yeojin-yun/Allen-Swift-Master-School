@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.29   
+### Error Handling  
+- 에러처리방법 : try, try?, try!  
+---
 #### 2021.09.28  
 ### ARC  
 6. 일반적인 클로저의 사용  
