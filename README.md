@@ -1,5 +1,10 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.09.30  
+### Error Handling  
+-에러를 처리하는 함수  
+-defer문
+---
 #### 2021.09.29   
 ### Error Handling  
 - 에러처리방법 : try, try?, try!  
