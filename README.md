@@ -1,5 +1,8 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.01  
+### 네트워크 통신  
+---
 #### 2021.09.30  
 ### Error Handling  
 -에러를 처리하는 함수  
