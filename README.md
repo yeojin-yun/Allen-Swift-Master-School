@@ -1,5 +1,14 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.02  
+### 네트워크 통신  
+1. 네트워크 통신의 이해  
+2. HTTP 프로토콜  
+3. iOS에서의 네트워킹  
+4. URLSession  
+5. JSON Parsing  
+6. 네트워크 통신의 예시  
+---
 #### 2021.10.01  
 ### 네트워크 통신  
 ---
