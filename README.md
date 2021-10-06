@@ -1,5 +1,12 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.06  
+### Result Type  
+### 날짜와 시간  
+1. 날짜와 시간 다루기  
+2. calendar 구조체의 이해  
+3. Dateformatter 구조체의 이해
+---
 #### 2021.10.05  
 ### 제네릭  
 1. 제네릭 문법의 필요성  
