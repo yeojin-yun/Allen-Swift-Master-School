@@ -1,6 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
 #### 2021.10.07  
+#### 2021.10.09  
+### String 
+---
 ### 접근제어  
 1. 접근제어의 기본 개념에 대한 이해  
 2. 커스텀 타입의 접근 제어  
