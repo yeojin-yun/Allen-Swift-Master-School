@@ -1,5 +1,11 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.12  
+### String  
+5. substring  
+6. string index  
+7. insert / replace / append / remove  
+---
 #### 2021.10.11  
 ### String  
 4. 문자열화 - 숫자 등의 타입을 문자열로 변환 출력하기  
