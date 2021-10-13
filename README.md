@@ -1,5 +1,11 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.13  
+### String  
+8. 문자열 비교하기  
+9. 문자열 다루기  
+10. 기타 문자열 다루기  
+---
 #### 2021.10.12  
 ### String  
 5. substring  
