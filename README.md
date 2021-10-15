@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.15  
+### 고차 함수 복습  
+- map, filter, reduce  
+---
 #### 2021.10.14  
 ### 고급 연산자  
 1. 스위프트의 정수타입 / 숫자 리터널 : 플랫폼에 따라 8, 32, 64가 나뉨.  
