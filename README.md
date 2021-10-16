@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.16  
+### ARC
+- ARC 세션 
+---
 #### 2021.10.15  
 ### 고차 함수 복습  
 - map, filter, reduce  
