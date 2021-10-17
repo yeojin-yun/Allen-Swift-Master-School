@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.17  
+### 클로저의 메모리 구조  
+### 디스패치 그룹
+---
 #### 2021.10.16  
 ### ARC
 - ARC 세션 
