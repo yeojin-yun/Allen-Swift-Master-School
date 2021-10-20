@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.20  
+### if문 / switch문 복습
+### 메모앱 만들기 2
+---
 #### 2021.10.19  
 ### 속성과 메서드 복습
 ### 메모앱 만들기 1
