@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.21  
+### 네트워킹  
+### Mastering iOS 복습  
+---
 #### 2021.10.20  
 ### if문 / switch문 복습
 ### 메모앱 만들기 2
