@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.22  
+### Mastering iOS 시작
+### type casting
+---
 #### 2021.10.21  
 ### 네트워킹  
 ### Mastering iOS 복습  
