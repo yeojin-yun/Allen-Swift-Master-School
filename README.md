@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.25  
+### 제네릭
+### Result Type
+---
 #### 2021.10.24  
 ### 앱만들기 (복습)  
 1. text Label, view, button 사용해보기
