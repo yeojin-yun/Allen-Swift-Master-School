@@ -1,5 +1,8 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.27
+### View Controller 전환 연습
+---
 #### 2021.10.25  
 ### 제네릭
 ### Result Type
