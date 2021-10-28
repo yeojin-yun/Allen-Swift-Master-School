@@ -1,5 +1,10 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.10.28  
+### 연산자  
+- 비트연산자  
+- 연산자 메서드  
+---
 #### 2021.10.27
 ### View Controller 전환 연습
 ---
