@@ -1,5 +1,13 @@
 # Allen-Swift-Master-School
-Today I learned  
+Today I learned
+#### 2021.10.30  
+### ARC study plan (Part1)  
+- 스위프트 메모리 구조
+- ARC모델 (MRC, ARC)  
+- 강한 참조 사이클  
+- 메모리 누수  
+- 비소유참조, 약한 참조  
+---
 #### 2021.10.29  
 ### 연산자 메서드의 직접 구현  
 ### 사용자 메서드  
