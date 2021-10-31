@@ -1,5 +1,8 @@
 # Allen-Swift-Master-School
-Today I learned
+Today I learned  
+#### 2021.10.31  
+### 짜장면앱 만들기  
+---
 #### 2021.10.30  
 ### ARC study plan (Part1)  
 - 스위프트 메모리 구조
