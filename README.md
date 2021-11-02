@@ -1,5 +1,8 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.11.02  
+### stepper와 switch를 활용한 앱 만들기  
+---
 #### 2021.11.01  
 ### 날짜와 시간 복습  
 1. Date()  
