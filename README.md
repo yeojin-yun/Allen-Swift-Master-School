@@ -1,5 +1,8 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.11.05  
+### button을 이용한 view controller이동 다시 구현
+---
 #### 2021.11.04  
 ### TableViewController 공부  
 ---
