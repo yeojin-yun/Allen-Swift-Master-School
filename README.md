@@ -1,5 +1,8 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.11.07. 
+### ARC 스터디 준비  
+---
 #### 2021.11.06  
 ### 코드로 버튼 및 액션 구현하기  
 ---
