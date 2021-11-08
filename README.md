@@ -1,5 +1,8 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.11.08  
+### AutoLayout, Snap Kit  
+---
 #### 2021.11.07. 
 ### ARC 스터디 준비  
 ---
