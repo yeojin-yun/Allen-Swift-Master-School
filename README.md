@@ -1,5 +1,10 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.11.09. 
+### 커스텀 버튼 만들기 (공부 더 필요)  
+### 커스텀 뷰 만들기 (공부 더 필요)  
+### 짜장면 앱 코드로 구현해보기1  
+---
 #### 2021.11.08  
 ### AutoLayout, Snap Kit  
 ---
