@@ -1,5 +1,9 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.11.12  
+### 네비게이션컨트롤러 (with.코드)  
+### scene delegate에서 구현하기  
+---
 #### 2021.11.10  
 ### 생성자  
 ### 짜장면 앱 코드로 구현해보기 2  
