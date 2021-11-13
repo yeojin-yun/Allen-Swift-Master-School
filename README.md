@@ -1,5 +1,8 @@
 # Allen-Swift-Master-School
 Today I learned  
+#### 2021.11.13  
+### github 토큰 발급하기 정리  
+---
 #### 2021.11.12  
 ### 네비게이션컨트롤러 (with.코드)  
 ### scene delegate에서 구현하기  
