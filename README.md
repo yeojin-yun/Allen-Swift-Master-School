@@ -1,10 +1,15 @@
 # Allen-Swift-Master-School
 Today I learned  
 #### 2021.12.13  
+<<<<<<< HEAD
 ### 접근제어  
 ### 에러처리 (do-catch)  
 ### 메모리안전  
 ---  
+=======
+### 접근제어, 에러처리, 메모리 세이프  
+---
+>>>>>>> f225bd2a4c1242b5e01b5225cdfe76d6664ec331
 #### 2021.11.14  
 ### tableView 코드 구현(실패)  
 ---
